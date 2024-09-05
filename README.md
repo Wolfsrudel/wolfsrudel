@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# roadmap.sh
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66d9736ac46f68d052568903?variant=light&roadmaps=devops%2Clinux%2Ckubernetes%2Cdocker)](https://roadmap.sh)
+
 <!--
 **Wolfsrudel/wolfsrudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
